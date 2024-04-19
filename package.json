@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@swenkertrea/voluptates-quae-architecto-velit",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,33 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/swenkertrea/voluptates-quae-architecto-velit.git"
   },
   "dependencies": {
+    "@firantea/aliquam-dignissimos-impedit-illo": "^1.0.0",
+    "@firantea/aliquid-corrupti-cumque-veritatis": "^1.0.0",
+    "@firantea/corrupti-cum-quis-sint": "^1.0.0",
+    "@firantea/libero-autem-nam-possimus": "^1.0.0",
+    "@firantea/modi-ducimus-eius-cumque": "^1.0.0",
+    "@firantea/perspiciatis-ut-sint-ipsum": "^1.0.0",
+    "@firantea/quisquam-ullam-explicabo-optio": "^1.0.0",
+    "@firantea/ut-assumenda-incidunt-quasi": "^1.0.0",
+    "@npmteasources/quia-repellat-commodi-inventore": "^1.0.0",
+    "@npmteasources/ratione-accusantium-laboriosam-at": "^1.0.0",
+    "@npmteasources/repellendus-natus-quaerat-in": "^1.0.0",
+    "@npmteasources/reprehenderit-assumenda-asperiores-neque": "^1.0.0",
+    "@npmteasources/rerum-eligendi-sunt-eos": "^1.0.0",
+    "@npmteasources/sapiente-natus-consequatur-odio": "^1.0.0",
+    "@npmteasources/tempora-ea-nihil-soluta": "^1.0.0",
+    "@womhla6stea/ad-dicta-omnis-velit": "^1.0.0",
+    "@womhla6stea/architecto-dolores-molestiae-perspiciatis": "^1.0.0",
+    "@womhla6stea/eius-non-ea-illo": "^1.0.0",
+    "@womhla6stea/modi-illum-cupiditate-quasi": "^1.0.0",
+    "@womhla6stea/quia-eius-unde-cum": "^1.0.0",
+    "analsorhost-simple-bs": "^1.0.0",
+    "corcojs-qrcode": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-prompts-web3": "^1.0.1"
   }
 }
